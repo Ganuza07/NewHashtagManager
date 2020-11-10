@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Service\Interface\IBaseService.cs" />
+    <Compile Remove="Service\Interface\IPosteoService.cs" />
+    <Compile Remove="Service\Interface\IUserService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HashtagManager.Domain\HashtagManager.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Service\Interface\" />
+  </ItemGroup>
+
+</Project>

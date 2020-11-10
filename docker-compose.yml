@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  newhashtagmanager:
+    image: ${DOCKER_REGISTRY-}newhashtagmanager
+    build:
+      context: .
+      dockerfile: NewHashtagManager/Dockerfile

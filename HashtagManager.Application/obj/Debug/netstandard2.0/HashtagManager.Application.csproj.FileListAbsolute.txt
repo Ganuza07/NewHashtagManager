@@ -1,0 +1,12 @@
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Application\bin\Debug\netstandard2.0\HashtagManager.Application.deps.json
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Application\bin\Debug\netstandard2.0\HashtagManager.Application.dll
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Application\bin\Debug\netstandard2.0\HashtagManager.Application.pdb
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Application\bin\Debug\netstandard2.0\HashtagManager.Domain.dll
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Application\bin\Debug\netstandard2.0\HashtagManager.Domain.pdb
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Application\obj\Debug\netstandard2.0\HashtagManager.Application.csprojAssemblyReference.cache
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Application\obj\Debug\netstandard2.0\HashtagManager.Application.AssemblyInfoInputs.cache
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Application\obj\Debug\netstandard2.0\HashtagManager.Application.AssemblyInfo.cs
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Application\obj\Debug\netstandard2.0\HashtagManager.Application.csproj.CopyComplete
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Application\obj\Debug\netstandard2.0\HashtagManager.Application.dll
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Application\obj\Debug\netstandard2.0\HashtagManager.Application.pdb
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Application\obj\Debug\netstandard2.0\HashtagManager.Application.csproj.CoreCompileInputs.cache

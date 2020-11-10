@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NewHashtagManager</name>
+    </assembly>
+    <members>
+        <member name="M:NewHashtagManager.Controllers.PosteoController.Get">
+            <summary>
+            Devuelve una lista con todos los posts
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NewHashtagManager.Controllers.PosteoController.Get(System.String)">
+            <summary>
+            Devuelve los post que contengan la keyword
+            </summary>
+            <param name="keyWord"></param>
+            <returns>Lista de 0 o mas posts</returns>
+        </member>
+        <member name="M:NewHashtagManager.Controllers.PosteoController.Post(NewHashtagManager.Domain.Entities.Models.Posteo)">
+            <summary>
+            Crea un post nuevo usando el ID de un usuario
+            </summary>
+            <param name="posteo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NewHashtagManager.Controllers.PosteoController.Put(NewHashtagManager.Domain.Entities.Models.Posteo)">
+            <summary>
+            No hace nada
+            </summary>
+            <param name="post"></param>
+        </member>
+        <member name="M:NewHashtagManager.Controllers.PosteoController.Delete(System.Guid)">
+            <summary>
+            Elimina un post nediante su ID
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:NewHashtagManager.Controllers.UserController.Get">
+            <summary>
+            Devuelve una lista con todos los usuarios
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NewHashtagManager.Controllers.UserController.Get(System.Guid)">
+            <summary>
+            Busca un usuario por ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NewHashtagManager.Controllers.UserController.Post(NewHashtagManager.Domain.Entities.Models.User)">
+            <summary>
+            Crea un usuario nuevo
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NewHashtagManager.Controllers.UserController.Put(System.Int32,System.String)">
+            <summary>
+            No hace nada
+            </summary>
+            <param name="id"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:NewHashtagManager.Controllers.UserController.Delete(System.Guid)">
+            <summary>
+            Elimina un usuario mediante su ID
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>

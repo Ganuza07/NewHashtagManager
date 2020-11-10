@@ -1,0 +1,8 @@
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Domain\bin\Debug\netstandard2.0\HashtagManager.Domain.deps.json
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Domain\bin\Debug\netstandard2.0\HashtagManager.Domain.dll
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Domain\bin\Debug\netstandard2.0\HashtagManager.Domain.pdb
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Domain\obj\Debug\netstandard2.0\HashtagManager.Domain.AssemblyInfoInputs.cache
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Domain\obj\Debug\netstandard2.0\HashtagManager.Domain.AssemblyInfo.cs
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Domain\obj\Debug\netstandard2.0\HashtagManager.Domain.csproj.CoreCompileInputs.cache
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Domain\obj\Debug\netstandard2.0\HashtagManager.Domain.dll
+C:\VS Projects\NewHashtagManagerApp\HashtagManager.Domain\obj\Debug\netstandard2.0\HashtagManager.Domain.pdb
